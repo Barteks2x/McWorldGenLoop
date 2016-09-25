@@ -1,0 +1,16 @@
+[
+{
+  "modid": "worldgenloop",
+  "name": "World Gen Loop",
+  "description": "World generation loop",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Barteks2x"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
